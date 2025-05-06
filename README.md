@@ -1,16 +1,34 @@
-## Hi there 👋
+# Mariana Almeida do Nascimento
 
-<!--
-**Mariana851/Mariana851** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na FECAP  
+💻 Foco em Inteligência Artificial, Ciência de Dados, Cibersegurança e Desenvolvimento Web  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante de Ciência da Computação na FECAP, com grande interesse nas áreas de Inteligência Artificial, Cibersegurança e Ciência de Dados. Busco constantemente ampliar meus conhecimentos técnicos, desenvolver projetos relevantes e me preparar para atuar profissionalmente com responsabilidade, ética e inovação tecnológica.
+
+Atualmente, estou aprofundando meus estudos em Python e explorando aplicações práticas em IA e segurança da informação, com o objetivo de contribuir para soluções que aliem tecnologia e impacto social.
+
+---
+
+## Tecnologias e Ferramentas
+
+- **Python** (principais bibliotecas e frameworks para IA e dados)
+- **Linguagem R** (análise de dados e estatística)
+- **C#** (aplicações e desenvolvimento com .NET)
+- **Swift** (desenvolvimento iOS)
+- **Git & GitHub**
+- **HTML e CSS** (básico)
+
+---
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/mariana-almeidanascimento/)
+- ✉️ almeidamariana191@gmail.com 
+
+---
+
+📌 *Este espaço está em constante atualização à medida que novos aprendizados e projetos forem sendo desenvolvidos.*
